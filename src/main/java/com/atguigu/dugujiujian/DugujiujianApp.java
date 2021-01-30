@@ -8,5 +8,6 @@ public class DugujiujianApp {
         System.out.println("CCCCCC");
         System.out.println("BBB");
         System.out.println("BBB");
+        System.out.println("XXXXXXXXXXXXXXXX");
     }
 }
